@@ -1,1 +1,1 @@
-# COPSS_Polarization
+# Polarization
